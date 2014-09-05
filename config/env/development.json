@@ -1,0 +1,6 @@
+{
+    "db": "mongodb://localhost/mean-dev",
+    "app": {
+        "name": "WatsonMedical - IBM Watson Cognitive Computing - Development"
+    }
+}
