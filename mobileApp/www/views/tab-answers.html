@@ -1,0 +1,159 @@
+<ion-view title="IHeart"> 
+  <ion-content>
+
+	<div class="bar bar-header bar-positive">
+		<button class="button icon ion-lightbulb"></button>
+		<h1 class="title">Answers</h1>
+
+	</div>
+	<br>
+	<!-- <div class="bar bar-subheader" style="background-color: #4a87ee;"> -->
+
+	<button class="button button-full button-calm" style="margin-top: 7.5%;">
+	I have chest pains, should I eat chicken?
+	</button>
+		
+	<!-- </div> -->
+<div class="list card">
+  
+
+  <div class="item item-avatar">
+	<i class="icon ion-star"></i>
+	<i class="icon ion-star"></i>
+	<i class="icon ion-star"></i>
+
+    <h2>Watson's Answer</h2>
+    <p>November 01, 2014</p>
+  </div>
+
+  <div class="item item-body"  ng-controller="HistoryController">
+    <p>
+		{{answer}}
+    </p>
+    <p>
+      <a href="#" class="subdued">1 Like</a>
+      <a href="#" class="subdued">5 Comments</a>
+    </p>
+  </div>
+
+  <div class="item tabs tabs-secondary tabs-icon-left">
+    <a class="tab-item" href="#">
+      <i class="icon ion-thumbsup"></i>
+      
+    </a>
+    <a class="tab-item" href="#">
+      <i class="icon ion-chatbox"></i>
+      
+    </a>
+    <a class="tab-item" href="#">
+      <i class="icon ion-share"></i>
+      
+    </a>
+  </div>
+
+</div>
+
+
+<div class="list card">
+
+  <div class="item item-avatar">
+	<i class="icon ion-star"></i>
+	<i class="icon ion-star"></i>
+	<i class="icon ion-star"></i>
+	<i class="icon ion-star"></i>
+
+    <h2>Doctors's Answer</h2>
+    <p>November 01, 2014</p>
+  </div>
+
+  <div class="item item-body">
+    <p>
+
+
+      This is a "Facebook" styled Card. The header is created from a Thumbnail List item,
+      the content is from a card-body consisting of an image and paragraph text. The footer
+      consists of tabs, icons aligned left, within the card-footer.
+    </p>
+    <p>
+      <a href="#" class="subdued">1 Like</a>
+      <a href="#" class="subdued">5 Comments</a>
+    </p>
+  </div>
+
+  <div class="item tabs tabs-secondary tabs-icon-left">
+    <a class="tab-item" href="#">
+      <i class="icon ion-thumbsup"></i>
+      
+    </a>
+    <a class="tab-item" href="#">
+      <i class="icon ion-chatbox"></i>
+      
+    </a>
+    <a class="tab-item" href="#">
+      <i class="icon ion-share"></i>
+      
+    </a>
+  </div>
+
+</div>
+
+	
+
+<!-- COMMUNITY ANSWERS -->
+
+<a class="button " style="width: 100%; background-color: #e67e22; color: white;">Community Answers</a>
+
+<div class="list">
+
+    <a class="item item-avatar" href="#">
+      <!-- <img src="venkman.jpg"> -->
+      <h2>Venkman</h2>
+      <p>I just recovered from heart surgery, should I eat chicken?</p>
+    </a>
+
+    <a class="item item-avatar" href="#">
+      
+      <h2>Venkman</h2>
+      <p>Back off, man. I'm a scientist.</p>
+    </a>
+
+    <a class="item item-avatar" href="#">
+      
+      <h2>Venkman</h2>
+      <p>Back off, man. I'm a scientist.</p>
+    </a>
+
+    <a class="item item-avatar" href="#">
+      
+      <h2>Venkman</h2>
+      <p>Back off, man. I'm a scientist.</p>
+    </a>
+
+    <a class="item item-avatar" href="#">
+      
+      <h2>Venkman</h2>
+      <p>Back off, man. I'm a scientist.</p>
+    </a>		    
+
+    
+</div>	
+
+
+
+
+
+
+<!-- 
+    <ion-list>
+      <ion-item ng-repeat="position in positions" type="item-text-wrap">
+        {{ position }}
+      </ion-item>
+    </ion-list>'
+ -->  
+
+
+
+
+ </ion-content>
+</ion-view>
+
