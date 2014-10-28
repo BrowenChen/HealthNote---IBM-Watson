@@ -1,67 +1,49 @@
+<style>
+  #main{
+    background-color: #2980b9;
+  }
+
+  #title{
+    text-align: center;
+    color: #ecf0f1;
+    font-size: 2.5em;
+    margin-top: 25%;
+  }
+
+  #subtitle{
+
+    text-align: center;
+    color: #ecf0f1;
+    
+    margin-top: 30%;    
+  }
+
+</style>
+
 <ion-view title="IHeart">
-  <ion-content class="has-header padding">
-  <p> Home </p>
+  <ion-content id="main" class="has-header padding">
+
+  <div id="title">
+    iHeart
+    <br>
+    <br>
+
+
+    <h4 style=" color: #ecf0f1;"> Ask me anything about heart disease.</h4>
+
+  <div>
+
+  <br>
+
+  <!-- buttons -->
+
+  <button class="button button-positive" style="width: 50%;">Login</button>  
+  <br>
+  <br>
+  <button class="button button-positive" style="width: 50%;">Sign up</button>  
+  <br>
+
 	
-	<ul class="list">
-
-	  <li class="item item-toggle">
-	     Preventative Tracking
-	     <label class="toggle toggle-assertive">
-	       <input type="checkbox">
-	       <div class="track">
-	         <div class="handle"></div>
-	       </div>
-	     </label>
-		</li>
-
-	  <li class="item item-toggle">
-	     Update Medical Records
-	     <label class="toggle toggle-assertive">
-	       <input type="checkbox">
-	       <div class="track">
-	         <div class="handle"></div>
-	       </div>
-	     </label>
-		</li>
-
-
-
-
-	</ul>
-<!-- 
-    <ion-toggle ng-model="input.enableTracking">Personal Info</ion-toggle>
-	<ion-toggle ng-model="input.enableTracking">Preventative Tracking</ion-toggle>
- -->
-
- <div class="list">
-
-  <a class="item item-icon-left" href="#">
-    <i class="icon ion-email"></i>
-    Check mail
-  </a>
-
-  <a class="item item-icon-left item-icon-right" href="#">
-    <i class="icon ion-chatbubble-working"></i>
-    Call Hospital
-    <i class="icon ion-ios7-telephone-outline"></i>
-  </a>
-
-  <a class="item item-icon-left" href="#">
-    <i class="icon ion-mic-a"></i>
-    Record Note
-    <span class="item-note">
-      Heart
-    </span>
-  </a>
-
-  <a class="item item-icon-left" href="#">
-    <i class="icon ion-person-stalker"></i>
-    Friends
-    <span class="badge badge-assertive">0</span>
-  </a>
-
-</div>	
-      	
 
   </ion-content>
 </ion-view>

@@ -2983,3 +2983,903 @@ https://developer.apple.com/icloud/documentation/data-storage/
 2014-10-25 15:49:29.087 SF Sample[33684:285204] [CDVTimer][TotalPluginStartup] 0.286996ms
 2014-10-25 15:49:29.417 SF Sample[33684:285204] Resetting plugins due to page load.
 2014-10-25 15:49:29.903 SF Sample[33684:285204] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/5421EEE2-5705-4085-A2B5-571EFF65BB06/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:26:32.166 SF Sample[40612:882315] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/016A82B2-A22D-4B69-9B88-FCB165C168BF/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:26:32.294 SF Sample[40612:882315] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:26:32.294 SF Sample[40612:882315] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:26:32.316 SF Sample[40612:882315] Unlimited access to network resources
+2014-10-28 08:26:32.319 SF Sample[40612:882315] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:26:32.715 SF Sample[40612:882315] [CDVTimer][keyboard] 0.060976ms
+2014-10-28 08:26:32.715 SF Sample[40612:882315] [CDVTimer][TotalPluginStartup] 0.232995ms
+2014-10-28 08:26:32.821 SF Sample[40612:882315] Resetting plugins due to page load.
+2014-10-28 08:26:33.159 SF Sample[40612:882315] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/88D5728B-2D36-4721-83BB-5C8FA16F10E4/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:32:31.200 SF Sample[40818:886613] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/DFEC132B-B16A-4B9B-A2EF-254F6EE64DB6/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:32:31.289 SF Sample[40818:886613] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:32:31.289 SF Sample[40818:886613] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:32:31.295 SF Sample[40818:886613] Unlimited access to network resources
+2014-10-28 08:32:31.297 SF Sample[40818:886613] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:32:31.490 SF Sample[40818:886613] [CDVTimer][keyboard] 0.058949ms
+2014-10-28 08:32:31.490 SF Sample[40818:886613] [CDVTimer][TotalPluginStartup] 0.236988ms
+2014-10-28 08:32:31.534 SF Sample[40818:886613] Resetting plugins due to page load.
+2014-10-28 08:32:31.820 SF Sample[40818:886613] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/BD767E2C-A834-4ADC-AB1E-4AA2A84E7EB2/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:32:51.520 SF Sample[40973:887181] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/4F83B697-C11A-420D-8C53-234EED6BEBB4/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:32:51.594 SF Sample[40973:887181] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:32:51.594 SF Sample[40973:887181] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:32:51.599 SF Sample[40973:887181] Unlimited access to network resources
+2014-10-28 08:32:51.602 SF Sample[40973:887181] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:32:51.798 SF Sample[40973:887181] [CDVTimer][keyboard] 0.052035ms
+2014-10-28 08:32:51.799 SF Sample[40973:887181] [CDVTimer][TotalPluginStartup] 0.236988ms
+2014-10-28 08:32:51.841 SF Sample[40973:887181] Resetting plugins due to page load.
+2014-10-28 08:32:52.112 SF Sample[40973:887181] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/369B262A-31C1-48AC-AEE2-5EDACA54CE83/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:33:25.076 SF Sample[41129:887881] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/27756311-6224-4DAD-B36B-043829C4792B/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:33:25.163 SF Sample[41129:887881] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:33:25.163 SF Sample[41129:887881] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:33:25.168 SF Sample[41129:887881] Unlimited access to network resources
+2014-10-28 08:33:25.172 SF Sample[41129:887881] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:33:25.366 SF Sample[41129:887881] [CDVTimer][keyboard] 0.070035ms
+2014-10-28 08:33:25.366 SF Sample[41129:887881] [CDVTimer][TotalPluginStartup] 0.276983ms
+2014-10-28 08:33:25.419 SF Sample[41129:887881] Resetting plugins due to page load.
+2014-10-28 08:33:25.719 SF Sample[41129:887881] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/0BCD9A2D-9012-4929-A9CB-A081B3203DF1/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:34:13.495 SF Sample[41289:888796] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/F48C2C04-B8F8-4FBC-9235-C20AEB7C52AD/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:34:13.579 SF Sample[41289:888796] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:34:13.579 SF Sample[41289:888796] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:34:13.584 SF Sample[41289:888796] Unlimited access to network resources
+2014-10-28 08:34:13.587 SF Sample[41289:888796] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:34:13.784 SF Sample[41289:888796] [CDVTimer][keyboard] 0.064015ms
+2014-10-28 08:34:13.784 SF Sample[41289:888796] [CDVTimer][TotalPluginStartup] 0.272989ms
+2014-10-28 08:34:13.826 SF Sample[41289:888796] Resetting plugins due to page load.
+2014-10-28 08:34:14.075 SF Sample[41289:888796] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/8E44A246-DAED-4F4C-96A7-171C1758E8EE/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:34:32.825 SF Sample[41444:889423] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/2BEB3F5A-D679-4063-9504-F75971DC18C2/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:34:32.897 SF Sample[41444:889423] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:34:32.897 SF Sample[41444:889423] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:34:32.902 SF Sample[41444:889423] Unlimited access to network resources
+2014-10-28 08:34:32.905 SF Sample[41444:889423] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:34:33.096 SF Sample[41444:889423] [CDVTimer][keyboard] 0.061989ms
+2014-10-28 08:34:33.096 SF Sample[41444:889423] [CDVTimer][TotalPluginStartup] 0.245988ms
+2014-10-28 08:34:33.140 SF Sample[41444:889423] Resetting plugins due to page load.
+2014-10-28 08:34:33.399 SF Sample[41444:889423] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/921F5239-B13F-4633-A7E4-CBD388E8444B/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:36:23.867 SF Sample[41608:890810] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/58C9C046-49A9-4C05-AE3D-1BA8B4BD6012/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:36:23.954 SF Sample[41608:890810] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:36:23.954 SF Sample[41608:890810] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:36:23.959 SF Sample[41608:890810] Unlimited access to network resources
+2014-10-28 08:36:23.962 SF Sample[41608:890810] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:36:24.166 SF Sample[41608:890810] [CDVTimer][keyboard] 0.051975ms
+2014-10-28 08:36:24.166 SF Sample[41608:890810] [CDVTimer][TotalPluginStartup] 0.235975ms
+2014-10-28 08:36:24.211 SF Sample[41608:890810] Resetting plugins due to page load.
+2014-10-28 08:36:24.620 SF Sample[41608:890810] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/6A771856-2983-44A7-9B10-DBB2A4907072/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:38:43.991 SF Sample[41777:892565] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/EE3278DB-EF97-4742-A30B-9E2F57CD5813/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:38:44.074 SF Sample[41777:892565] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:38:44.074 SF Sample[41777:892565] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:38:44.079 SF Sample[41777:892565] Unlimited access to network resources
+2014-10-28 08:38:44.083 SF Sample[41777:892565] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:38:44.284 SF Sample[41777:892565] [CDVTimer][keyboard] 0.064015ms
+2014-10-28 08:38:44.284 SF Sample[41777:892565] [CDVTimer][TotalPluginStartup] 0.261009ms
+2014-10-28 08:38:44.348 SF Sample[41777:892565] Resetting plugins due to page load.
+2014-10-28 08:38:44.623 SF Sample[41777:892565] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/D730D19F-9DE6-4415-A30D-D3406430F5FD/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:39:06.951 SF Sample[41934:893202] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/73F3E040-ACAD-4CCB-B5F3-462F9F12BFEF/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:39:07.032 SF Sample[41934:893202] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:39:07.033 SF Sample[41934:893202] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:39:07.038 SF Sample[41934:893202] Unlimited access to network resources
+2014-10-28 08:39:07.040 SF Sample[41934:893202] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:39:07.238 SF Sample[41934:893202] [CDVTimer][keyboard] 0.057995ms
+2014-10-28 08:39:07.238 SF Sample[41934:893202] [CDVTimer][TotalPluginStartup] 0.245988ms
+2014-10-28 08:39:07.293 SF Sample[41934:893202] Resetting plugins due to page load.
+2014-10-28 08:39:07.585 SF Sample[41934:893202] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/7171C29F-09E3-4D21-AE3B-22CC46977F54/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:39:31.759 SF Sample[42090:893813] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/E215FCF4-0BE0-41BD-8E4A-EF7ECDBA3D39/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:39:31.832 SF Sample[42090:893813] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:39:31.833 SF Sample[42090:893813] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:39:31.838 SF Sample[42090:893813] Unlimited access to network resources
+2014-10-28 08:39:31.841 SF Sample[42090:893813] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:39:32.037 SF Sample[42090:893813] [CDVTimer][keyboard] 0.052989ms
+2014-10-28 08:39:32.037 SF Sample[42090:893813] [CDVTimer][TotalPluginStartup] 0.234962ms
+2014-10-28 08:39:32.078 SF Sample[42090:893813] Resetting plugins due to page load.
+2014-10-28 08:39:32.368 SF Sample[42090:893813] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/538F0B5E-0FFA-4E86-831E-E7AEFE69FCEC/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:39:45.795 SF Sample[42246:894300] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/773A5A9D-12C4-440B-B779-D1212663FDF6/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:39:45.878 SF Sample[42246:894300] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:39:45.878 SF Sample[42246:894300] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:39:45.883 SF Sample[42246:894300] Unlimited access to network resources
+2014-10-28 08:39:45.885 SF Sample[42246:894300] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:39:46.083 SF Sample[42246:894300] [CDVTimer][keyboard] 0.064015ms
+2014-10-28 08:39:46.084 SF Sample[42246:894300] [CDVTimer][TotalPluginStartup] 0.248969ms
+2014-10-28 08:39:46.128 SF Sample[42246:894300] Resetting plugins due to page load.
+2014-10-28 08:39:46.391 SF Sample[42246:894300] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/6C154E9A-A917-4CE6-BAD2-EEBD404CA219/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:40:00.376 SF Sample[42402:894801] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/FEFC7684-CE9D-4F74-A38D-10FAC0053C20/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:40:00.453 SF Sample[42402:894801] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:40:00.454 SF Sample[42402:894801] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:40:00.459 SF Sample[42402:894801] Unlimited access to network resources
+2014-10-28 08:40:00.461 SF Sample[42402:894801] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:40:00.658 SF Sample[42402:894801] [CDVTimer][keyboard] 0.056028ms
+2014-10-28 08:40:00.658 SF Sample[42402:894801] [CDVTimer][TotalPluginStartup] 0.254989ms
+2014-10-28 08:40:00.704 SF Sample[42402:894801] Resetting plugins due to page load.
+2014-10-28 08:40:00.993 SF Sample[42402:894801] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/8213AD4C-9CF9-4808-B078-07654F129C80/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:40:12.372 SF Sample[42558:895256] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/3A39BBB9-7D7B-45B8-BB84-BC62E58F2BD6/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:40:12.444 SF Sample[42558:895256] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:40:12.445 SF Sample[42558:895256] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:40:12.449 SF Sample[42558:895256] Unlimited access to network resources
+2014-10-28 08:40:12.452 SF Sample[42558:895256] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:40:12.643 SF Sample[42558:895256] [CDVTimer][keyboard] 0.057995ms
+2014-10-28 08:40:12.643 SF Sample[42558:895256] [CDVTimer][TotalPluginStartup] 0.244021ms
+2014-10-28 08:40:12.683 SF Sample[42558:895256] Resetting plugins due to page load.
+2014-10-28 08:40:12.976 SF Sample[42558:895256] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/E6AA9E58-BA27-413B-889B-A79E2F1E6B00/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:40:21.476 SF Sample[42714:895701] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/E73A89DC-0881-4E4F-90FD-A8748954A663/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:40:21.546 SF Sample[42714:895701] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:40:21.546 SF Sample[42714:895701] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:40:21.551 SF Sample[42714:895701] Unlimited access to network resources
+2014-10-28 08:40:21.553 SF Sample[42714:895701] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:40:21.751 SF Sample[42714:895701] [CDVTimer][keyboard] 0.064015ms
+2014-10-28 08:40:21.751 SF Sample[42714:895701] [CDVTimer][TotalPluginStartup] 0.244975ms
+2014-10-28 08:40:21.793 SF Sample[42714:895701] Resetting plugins due to page load.
+2014-10-28 08:40:22.034 SF Sample[42714:895701] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/DC1AA253-967A-40FF-A003-BB21A247A18C/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:40:58.507 SF Sample[42872:896518] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/0C298028-8AD0-451B-BC48-7CBFDA5ED1A8/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:40:58.587 SF Sample[42872:896518] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:40:58.588 SF Sample[42872:896518] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:40:58.592 SF Sample[42872:896518] Unlimited access to network resources
+2014-10-28 08:40:58.595 SF Sample[42872:896518] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:40:58.796 SF Sample[42872:896518] [CDVTimer][keyboard] 0.070989ms
+2014-10-28 08:40:58.796 SF Sample[42872:896518] [CDVTimer][TotalPluginStartup] 0.267029ms
+2014-10-28 08:40:58.842 SF Sample[42872:896518] Resetting plugins due to page load.
+2014-10-28 08:40:59.135 SF Sample[42872:896518] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/4C4F4881-D353-421E-AEFC-9EEA8B3E1391/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:41:26.905 SF Sample[43028:897203] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/A8C53910-9162-4CCC-B461-00F2E38246CE/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:41:26.988 SF Sample[43028:897203] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:41:26.988 SF Sample[43028:897203] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:41:26.993 SF Sample[43028:897203] Unlimited access to network resources
+2014-10-28 08:41:26.995 SF Sample[43028:897203] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:41:27.187 SF Sample[43028:897203] [CDVTimer][keyboard] 0.052035ms
+2014-10-28 08:41:27.187 SF Sample[43028:897203] [CDVTimer][TotalPluginStartup] 0.231028ms
+2014-10-28 08:41:27.232 SF Sample[43028:897203] Resetting plugins due to page load.
+2014-10-28 08:41:27.535 SF Sample[43028:897203] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/B657A2D8-94F0-4FBC-8FCE-5CC8A5EADB96/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:41:41.658 SF Sample[43185:897684] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/935B1AEC-4BD4-45A3-B57A-16722B79D45D/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:41:41.732 SF Sample[43185:897684] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:41:41.733 SF Sample[43185:897684] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:41:41.737 SF Sample[43185:897684] Unlimited access to network resources
+2014-10-28 08:41:41.740 SF Sample[43185:897684] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:41:41.932 SF Sample[43185:897684] [CDVTimer][keyboard] 0.054955ms
+2014-10-28 08:41:41.932 SF Sample[43185:897684] [CDVTimer][TotalPluginStartup] 0.236034ms
+2014-10-28 08:41:41.974 SF Sample[43185:897684] Resetting plugins due to page load.
+2014-10-28 08:41:42.235 SF Sample[43185:897684] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/AE39DF64-2A4D-43ED-A7EE-4DD7C872CB1D/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:41:50.707 SF Sample[43341:898114] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/DB38CB73-3810-43B0-92E2-803A90125E01/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:41:50.782 SF Sample[43341:898114] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:41:50.783 SF Sample[43341:898114] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:41:50.788 SF Sample[43341:898114] Unlimited access to network resources
+2014-10-28 08:41:50.791 SF Sample[43341:898114] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:41:50.985 SF Sample[43341:898114] [CDVTimer][keyboard] 0.056982ms
+2014-10-28 08:41:50.985 SF Sample[43341:898114] [CDVTimer][TotalPluginStartup] 0.234008ms
+2014-10-28 08:41:51.027 SF Sample[43341:898114] Resetting plugins due to page load.
+2014-10-28 08:41:51.303 SF Sample[43341:898114] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/2D8B0F41-4CDC-48F0-AD1C-B1018B8E094F/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:43:14.493 SF Sample[43504:899263] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/79484C3D-ED32-4D0F-A237-5382C51FDFC6/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:43:14.573 SF Sample[43504:899263] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:43:14.573 SF Sample[43504:899263] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:43:14.578 SF Sample[43504:899263] Unlimited access to network resources
+2014-10-28 08:43:14.581 SF Sample[43504:899263] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:43:14.774 SF Sample[43504:899263] [CDVTimer][keyboard] 0.064015ms
+2014-10-28 08:43:14.774 SF Sample[43504:899263] [CDVTimer][TotalPluginStartup] 0.257969ms
+2014-10-28 08:43:14.818 SF Sample[43504:899263] Resetting plugins due to page load.
+2014-10-28 08:43:15.069 SF Sample[43504:899263] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/1FEAD651-F105-4A50-BC08-8A90D3278047/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:43:24.760 SF Sample[43662:899900] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/4E51AFB3-97BE-436F-9A22-DF050CA073E7/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:43:24.835 SF Sample[43662:899900] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:43:24.836 SF Sample[43662:899900] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:43:24.841 SF Sample[43662:899900] Unlimited access to network resources
+2014-10-28 08:43:24.843 SF Sample[43662:899900] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:43:25.043 SF Sample[43662:899900] [CDVTimer][keyboard] 0.069022ms
+2014-10-28 08:43:25.043 SF Sample[43662:899900] [CDVTimer][TotalPluginStartup] 0.249982ms
+2014-10-28 08:43:25.084 SF Sample[43662:899900] Resetting plugins due to page load.
+2014-10-28 08:43:25.370 SF Sample[43662:899900] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/D19D5EA7-96C4-4070-A8AB-C48D70C12643/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:43:59.490 SF Sample[43818:900528] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/642D3985-BF1D-4528-9F55-00901CEBC6F2/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:43:59.562 SF Sample[43818:900528] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:43:59.563 SF Sample[43818:900528] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:43:59.567 SF Sample[43818:900528] Unlimited access to network resources
+2014-10-28 08:43:59.570 SF Sample[43818:900528] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:43:59.761 SF Sample[43818:900528] [CDVTimer][keyboard] 0.055015ms
+2014-10-28 08:43:59.761 SF Sample[43818:900528] [CDVTimer][TotalPluginStartup] 0.241995ms
+2014-10-28 08:43:59.803 SF Sample[43818:900528] Resetting plugins due to page load.
+2014-10-28 08:44:00.091 SF Sample[43818:900528] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/6ADD8C46-E22F-4228-90E3-9749688D95B3/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:45:14.688 SF Sample[43977:901529] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/A0F5D7A3-B321-4E7E-BCBB-042BE3BFC826/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:45:14.771 SF Sample[43977:901529] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:45:14.771 SF Sample[43977:901529] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:45:14.776 SF Sample[43977:901529] Unlimited access to network resources
+2014-10-28 08:45:14.779 SF Sample[43977:901529] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:45:14.979 SF Sample[43977:901529] [CDVTimer][keyboard] 0.052989ms
+2014-10-28 08:45:14.979 SF Sample[43977:901529] [CDVTimer][TotalPluginStartup] 0.232995ms
+2014-10-28 08:45:15.022 SF Sample[43977:901529] Resetting plugins due to page load.
+2014-10-28 08:45:15.309 SF Sample[43977:901529] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/08794DC2-7279-4768-9027-3DB9F69C97BD/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:46:17.325 SF Sample[44137:902522] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/DA038E5A-9B49-48FA-9EA7-868B2EA46C7E/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:46:17.407 SF Sample[44137:902522] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:46:17.408 SF Sample[44137:902522] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:46:17.412 SF Sample[44137:902522] Unlimited access to network resources
+2014-10-28 08:46:17.415 SF Sample[44137:902522] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:46:17.612 SF Sample[44137:902522] [CDVTimer][keyboard] 0.064969ms
+2014-10-28 08:46:17.612 SF Sample[44137:902522] [CDVTimer][TotalPluginStartup] 0.257969ms
+2014-10-28 08:46:17.654 SF Sample[44137:902522] Resetting plugins due to page load.
+2014-10-28 08:46:17.967 SF Sample[44137:902522] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/266D48D8-96A2-47AA-96F6-0A1F25DE1E24/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:47:14.011 SF Sample[44297:903450] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/F0324880-07BF-4E7D-AE72-6CDDF9EA3CA4/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:47:14.089 SF Sample[44297:903450] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:47:14.089 SF Sample[44297:903450] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:47:14.094 SF Sample[44297:903450] Unlimited access to network resources
+2014-10-28 08:47:14.096 SF Sample[44297:903450] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:47:14.301 SF Sample[44297:903450] [CDVTimer][keyboard] 0.056982ms
+2014-10-28 08:47:14.301 SF Sample[44297:903450] [CDVTimer][TotalPluginStartup] 0.243962ms
+2014-10-28 08:47:14.343 SF Sample[44297:903450] Resetting plugins due to page load.
+2014-10-28 08:47:14.630 SF Sample[44297:903450] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/52930412-6618-4820-AFF1-611FC3703927/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:47:26.130 SF Sample[44453:903984] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/78888B0E-8891-46DB-80BC-F8529603F58D/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:47:26.212 SF Sample[44453:903984] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:47:26.213 SF Sample[44453:903984] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:47:26.217 SF Sample[44453:903984] Unlimited access to network resources
+2014-10-28 08:47:26.220 SF Sample[44453:903984] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:47:26.418 SF Sample[44453:903984] [CDVTimer][keyboard] 0.052989ms
+2014-10-28 08:47:26.418 SF Sample[44453:903984] [CDVTimer][TotalPluginStartup] 0.240028ms
+2014-10-28 08:47:26.461 SF Sample[44453:903984] Resetting plugins due to page load.
+2014-10-28 08:47:26.710 SF Sample[44453:903984] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/CE1D0CFC-D7A1-4E41-931D-02C838816859/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:47:36.230 SF Sample[44609:904431] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/2D54C248-C577-47C7-A981-523BF74A7912/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:47:36.352 SF Sample[44609:904431] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:47:36.353 SF Sample[44609:904431] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:47:36.357 SF Sample[44609:904431] Unlimited access to network resources
+2014-10-28 08:47:36.360 SF Sample[44609:904431] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:47:36.578 SF Sample[44609:904431] [CDVTimer][keyboard] 0.099003ms
+2014-10-28 08:47:36.578 SF Sample[44609:904431] [CDVTimer][TotalPluginStartup] 0.388980ms
+2014-10-28 08:47:36.640 SF Sample[44609:904431] Resetting plugins due to page load.
+2014-10-28 08:47:36.952 SF Sample[44609:904431] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/F3F366C4-4F1E-48BA-AE13-345180680E77/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:47:47.353 SF Sample[44765:904900] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/8D6C13FB-CD3C-4CEC-9140-0DB3719BC010/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:47:47.428 SF Sample[44765:904900] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:47:47.428 SF Sample[44765:904900] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:47:47.433 SF Sample[44765:904900] Unlimited access to network resources
+2014-10-28 08:47:47.436 SF Sample[44765:904900] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:47:47.631 SF Sample[44765:904900] [CDVTimer][keyboard] 0.057995ms
+2014-10-28 08:47:47.631 SF Sample[44765:904900] [CDVTimer][TotalPluginStartup] 0.239015ms
+2014-10-28 08:47:47.673 SF Sample[44765:904900] Resetting plugins due to page load.
+2014-10-28 08:47:47.965 SF Sample[44765:904900] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/81F4C87F-E25E-4AB6-8BEA-EF2DF9051BA0/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:47:59.933 SF Sample[44921:905360] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/4AA712A8-9B02-40EA-B2FF-50D3A47BB5DA/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:48:00.027 SF Sample[44921:905360] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:48:00.027 SF Sample[44921:905360] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:48:00.035 SF Sample[44921:905360] Unlimited access to network resources
+2014-10-28 08:48:00.038 SF Sample[44921:905360] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:48:00.247 SF Sample[44921:905360] [CDVTimer][keyboard] 0.064969ms
+2014-10-28 08:48:00.247 SF Sample[44921:905360] [CDVTimer][TotalPluginStartup] 0.261009ms
+2014-10-28 08:48:00.295 SF Sample[44921:905360] Resetting plugins due to page load.
+2014-10-28 08:48:00.615 SF Sample[44921:905360] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/A197B934-08CD-437D-AB87-55DA815D131E/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:48:10.224 SF Sample[45077:905835] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/297A6DC4-7EC3-472C-884D-E24A3FB81CBE/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:48:10.301 SF Sample[45077:905835] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:48:10.301 SF Sample[45077:905835] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:48:10.306 SF Sample[45077:905835] Unlimited access to network resources
+2014-10-28 08:48:10.308 SF Sample[45077:905835] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:48:10.503 SF Sample[45077:905835] [CDVTimer][keyboard] 0.056982ms
+2014-10-28 08:48:10.503 SF Sample[45077:905835] [CDVTimer][TotalPluginStartup] 0.238001ms
+2014-10-28 08:48:10.545 SF Sample[45077:905835] Resetting plugins due to page load.
+2014-10-28 08:48:10.837 SF Sample[45077:905835] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/8D2FBDB4-0BA4-42E7-B0EF-382B83C59331/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:48:17.651 SF Sample[45232:906185] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/54FBEEC6-4D47-4C8F-A374-47D34E100CED/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:48:17.735 SF Sample[45232:906185] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:48:17.736 SF Sample[45232:906185] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:48:17.741 SF Sample[45232:906185] Unlimited access to network resources
+2014-10-28 08:48:17.743 SF Sample[45232:906185] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:48:17.941 SF Sample[45232:906185] [CDVTimer][keyboard] 0.091970ms
+2014-10-28 08:48:17.941 SF Sample[45232:906185] [CDVTimer][TotalPluginStartup] 0.302970ms
+2014-10-28 08:48:17.983 SF Sample[45232:906185] Resetting plugins due to page load.
+2014-10-28 08:48:18.240 SF Sample[45232:906185] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/3E19649E-C9FC-4722-9943-019CD5388380/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:48:29.094 SF Sample[45389:906707] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/82C77B5A-66B3-4E18-B839-FE8C7B060430/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:48:29.173 SF Sample[45389:906707] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:48:29.174 SF Sample[45389:906707] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:48:29.179 SF Sample[45389:906707] Unlimited access to network resources
+2014-10-28 08:48:29.182 SF Sample[45389:906707] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:48:29.392 SF Sample[45389:906707] [CDVTimer][keyboard] 0.060022ms
+2014-10-28 08:48:29.392 SF Sample[45389:906707] [CDVTimer][TotalPluginStartup] 0.243008ms
+2014-10-28 08:48:29.454 SF Sample[45389:906707] Resetting plugins due to page load.
+2014-10-28 08:48:29.752 SF Sample[45389:906707] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/8B8F57D8-759F-4A9C-9F7F-5ED7F8C3224D/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:48:36.661 SF Sample[45544:907079] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/1AB1E9E4-1D22-474D-8FA3-BCA11FB067A8/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:48:36.740 SF Sample[45544:907079] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:48:36.740 SF Sample[45544:907079] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:48:36.745 SF Sample[45544:907079] Unlimited access to network resources
+2014-10-28 08:48:36.748 SF Sample[45544:907079] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:48:36.943 SF Sample[45544:907079] [CDVTimer][keyboard] 0.054002ms
+2014-10-28 08:48:36.943 SF Sample[45544:907079] [CDVTimer][TotalPluginStartup] 0.235021ms
+2014-10-28 08:48:36.984 SF Sample[45544:907079] Resetting plugins due to page load.
+2014-10-28 08:48:37.253 SF Sample[45544:907079] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/6FFB5BBE-5560-49EA-9E0F-EA2D37EC0439/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:48:46.337 SF Sample[45700:907513] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/9EC32F26-C296-433D-98B6-828B61DD3C7E/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:48:46.422 SF Sample[45700:907513] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:48:46.423 SF Sample[45700:907513] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:48:46.427 SF Sample[45700:907513] Unlimited access to network resources
+2014-10-28 08:48:46.430 SF Sample[45700:907513] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:48:46.633 SF Sample[45700:907513] [CDVTimer][keyboard] 0.061989ms
+2014-10-28 08:48:46.633 SF Sample[45700:907513] [CDVTimer][TotalPluginStartup] 0.253022ms
+2014-10-28 08:48:46.678 SF Sample[45700:907513] Resetting plugins due to page load.
+2014-10-28 08:48:46.955 SF Sample[45700:907513] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/670BB34C-C642-442E-A4F4-4F49A95720A7/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:50:01.188 SF Sample[45861:908675] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/2B0F76F8-2B86-4403-8925-8E692C80AE16/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:50:01.274 SF Sample[45861:908675] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:50:01.274 SF Sample[45861:908675] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:50:01.279 SF Sample[45861:908675] Unlimited access to network resources
+2014-10-28 08:50:01.281 SF Sample[45861:908675] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:50:01.476 SF Sample[45861:908675] [CDVTimer][keyboard] 0.060022ms
+2014-10-28 08:50:01.476 SF Sample[45861:908675] [CDVTimer][TotalPluginStartup] 0.240982ms
+2014-10-28 08:50:01.518 SF Sample[45861:908675] Resetting plugins due to page load.
+2014-10-28 08:50:01.804 SF Sample[45861:908675] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/960D8087-595C-4CFA-B0DE-A64CD056DB87/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:50:10.405 SF Sample[46018:909114] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/7AE42CA2-497D-4758-A2AB-F1A53D7B7398/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:50:10.487 SF Sample[46018:909114] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:50:10.488 SF Sample[46018:909114] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:50:10.492 SF Sample[46018:909114] Unlimited access to network resources
+2014-10-28 08:50:10.495 SF Sample[46018:909114] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:50:10.691 SF Sample[46018:909114] [CDVTimer][keyboard] 0.061035ms
+2014-10-28 08:50:10.691 SF Sample[46018:909114] [CDVTimer][TotalPluginStartup] 0.247955ms
+2014-10-28 08:50:10.737 SF Sample[46018:909114] Resetting plugins due to page load.
+2014-10-28 08:50:11.047 SF Sample[46018:909114] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/308B3A5A-6AB0-438B-8C86-3109B5FB9DA7/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:52:07.699 SF Sample[46183:910512] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/AE2BEA01-E36D-4818-87A5-8D62D41651B0/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:52:07.782 SF Sample[46183:910512] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:52:07.783 SF Sample[46183:910512] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:52:07.788 SF Sample[46183:910512] Unlimited access to network resources
+2014-10-28 08:52:07.791 SF Sample[46183:910512] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:52:07.997 SF Sample[46183:910512] [CDVTimer][keyboard] 0.065982ms
+2014-10-28 08:52:07.997 SF Sample[46183:910512] [CDVTimer][TotalPluginStartup] 0.257969ms
+2014-10-28 08:52:08.051 SF Sample[46183:910512] Resetting plugins due to page load.
+2014-10-28 08:52:08.469 SF Sample[46183:910512] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/644549FD-A62B-4708-9FF1-3B4A9A59DE10/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:52:26.145 SF Sample[46340:911191] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/CDFF738C-4521-4DB0-8BCD-7342F1BBA697/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:52:26.218 SF Sample[46340:911191] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:52:26.218 SF Sample[46340:911191] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:52:26.223 SF Sample[46340:911191] Unlimited access to network resources
+2014-10-28 08:52:26.226 SF Sample[46340:911191] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:52:26.421 SF Sample[46340:911191] [CDVTimer][keyboard] 0.070035ms
+2014-10-28 08:52:26.421 SF Sample[46340:911191] [CDVTimer][TotalPluginStartup] 0.265002ms
+2014-10-28 08:52:26.464 SF Sample[46340:911191] Resetting plugins due to page load.
+2014-10-28 08:52:26.765 SF Sample[46340:911191] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/A4937F47-CB50-4DF5-9964-2215520A649B/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:53:36.654 SF Sample[46502:912169] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/24DC7917-4E9E-4E17-97C5-3C0F9B03DD5B/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:53:36.740 SF Sample[46502:912169] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:53:36.741 SF Sample[46502:912169] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:53:36.746 SF Sample[46502:912169] Unlimited access to network resources
+2014-10-28 08:53:36.749 SF Sample[46502:912169] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:53:36.942 SF Sample[46502:912169] [CDVTimer][keyboard] 0.051975ms
+2014-10-28 08:53:36.942 SF Sample[46502:912169] [CDVTimer][TotalPluginStartup] 0.243008ms
+2014-10-28 08:53:36.990 SF Sample[46502:912169] Resetting plugins due to page load.
+2014-10-28 08:53:37.272 SF Sample[46502:912169] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/BD5DFA17-E652-4845-8B19-8970F7906AA6/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:53:59.686 SF Sample[46660:912701] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/F80C81BC-E8AA-4B72-B205-FA1D73B426B0/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:53:59.825 SF Sample[46660:912701] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:53:59.825 SF Sample[46660:912701] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:53:59.830 SF Sample[46660:912701] Unlimited access to network resources
+2014-10-28 08:53:59.833 SF Sample[46660:912701] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:54:00.033 SF Sample[46660:912701] [CDVTimer][keyboard] 0.056982ms
+2014-10-28 08:54:00.034 SF Sample[46660:912701] [CDVTimer][TotalPluginStartup] 0.254035ms
+2014-10-28 08:54:00.074 SF Sample[46660:912701] Resetting plugins due to page load.
+2014-10-28 08:54:00.369 SF Sample[46660:912701] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/8A610901-C2AF-45FB-89E0-46F600649540/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:56:52.601 SF Sample[46826:914470] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/409F7B97-9DE2-4436-8611-BE5442AF8521/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:56:52.733 SF Sample[46826:914470] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:56:52.733 SF Sample[46826:914470] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:56:52.738 SF Sample[46826:914470] Unlimited access to network resources
+2014-10-28 08:56:52.741 SF Sample[46826:914470] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:56:52.934 SF Sample[46826:914470] [CDVTimer][keyboard] 0.056028ms
+2014-10-28 08:56:52.934 SF Sample[46826:914470] [CDVTimer][TotalPluginStartup] 0.239015ms
+2014-10-28 08:56:52.987 SF Sample[46826:914470] Resetting plugins due to page load.
+2014-10-28 08:56:53.298 SF Sample[46826:914470] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/0F8C9DEA-E16D-4C6C-9A9D-ECFB1FE5552D/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:57:04.946 SF Sample[46983:914938] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/5705DD14-09FA-4414-9641-2D3A36861C1A/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:57:05.028 SF Sample[46983:914938] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:57:05.029 SF Sample[46983:914938] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:57:05.034 SF Sample[46983:914938] Unlimited access to network resources
+2014-10-28 08:57:05.037 SF Sample[46983:914938] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:57:05.235 SF Sample[46983:914938] [CDVTimer][keyboard] 0.060976ms
+2014-10-28 08:57:05.235 SF Sample[46983:914938] [CDVTimer][TotalPluginStartup] 0.243962ms
+2014-10-28 08:57:05.277 SF Sample[46983:914938] Resetting plugins due to page load.
+2014-10-28 08:57:05.540 SF Sample[46983:914938] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/32CD7FE4-4411-44CC-BADA-94829A079B8A/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:57:34.661 SF Sample[47139:915616] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/21B7CA62-79A7-43FD-B8F1-7C99DE7B528A/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:57:34.744 SF Sample[47139:915616] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:57:34.745 SF Sample[47139:915616] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:57:34.750 SF Sample[47139:915616] Unlimited access to network resources
+2014-10-28 08:57:34.752 SF Sample[47139:915616] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:57:34.952 SF Sample[47139:915616] [CDVTimer][keyboard] 0.059009ms
+2014-10-28 08:57:34.952 SF Sample[47139:915616] [CDVTimer][TotalPluginStartup] 0.284970ms
+2014-10-28 08:57:34.995 SF Sample[47139:915616] Resetting plugins due to page load.
+2014-10-28 08:57:35.463 SF Sample[47139:915616] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/6BB6D980-89C0-46A2-A5B6-01C1462F10D5/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:57:51.504 SF Sample[47295:916095] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/74DE6DA4-DF42-481E-821E-86ED95933400/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:57:51.582 SF Sample[47295:916095] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:57:51.582 SF Sample[47295:916095] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:57:51.587 SF Sample[47295:916095] Unlimited access to network resources
+2014-10-28 08:57:51.590 SF Sample[47295:916095] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:57:51.783 SF Sample[47295:916095] [CDVTimer][keyboard] 0.056982ms
+2014-10-28 08:57:51.784 SF Sample[47295:916095] [CDVTimer][TotalPluginStartup] 0.245035ms
+2014-10-28 08:57:51.826 SF Sample[47295:916095] Resetting plugins due to page load.
+2014-10-28 08:57:52.136 SF Sample[47295:916095] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/5B4F7EDC-67C3-4CE4-8754-435B639F77AE/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:58:03.750 SF Sample[47451:916557] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/42A4433C-BCF6-49DF-ABB1-4CCB5AEDC697/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:58:03.830 SF Sample[47451:916557] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:58:03.830 SF Sample[47451:916557] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:58:03.835 SF Sample[47451:916557] Unlimited access to network resources
+2014-10-28 08:58:03.837 SF Sample[47451:916557] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:58:04.035 SF Sample[47451:916557] [CDVTimer][keyboard] 0.057042ms
+2014-10-28 08:58:04.036 SF Sample[47451:916557] [CDVTimer][TotalPluginStartup] 0.237048ms
+2014-10-28 08:58:04.077 SF Sample[47451:916557] Resetting plugins due to page load.
+2014-10-28 08:58:04.346 SF Sample[47451:916557] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/A590B395-2153-402E-846E-CDC4F90000DB/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 08:59:00.989 SF Sample[47614:917583] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/5638DBF4-872D-4883-B36F-189E9D556FAA/Library/Cookies/Cookies.binarycookies
+2014-10-28 08:59:01.085 SF Sample[47614:917583] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 08:59:01.086 SF Sample[47614:917583] Multi-tasking -> Device: YES, App: YES
+2014-10-28 08:59:01.090 SF Sample[47614:917583] Unlimited access to network resources
+2014-10-28 08:59:01.093 SF Sample[47614:917583] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 08:59:01.288 SF Sample[47614:917583] [CDVTimer][keyboard] 0.052989ms
+2014-10-28 08:59:01.288 SF Sample[47614:917583] [CDVTimer][TotalPluginStartup] 0.236988ms
+2014-10-28 08:59:01.329 SF Sample[47614:917583] Resetting plugins due to page load.
+2014-10-28 08:59:01.600 SF Sample[47614:917583] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/E87FCD4C-427D-4C14-98BD-54B9F5FC9CFC/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 09:00:34.208 SF Sample[47782:919004] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/8A648DE7-B94F-4609-AE89-32E95728F593/Library/Cookies/Cookies.binarycookies
+2014-10-28 09:00:34.288 SF Sample[47782:919004] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 09:00:34.288 SF Sample[47782:919004] Multi-tasking -> Device: YES, App: YES
+2014-10-28 09:00:34.294 SF Sample[47782:919004] Unlimited access to network resources
+2014-10-28 09:00:34.297 SF Sample[47782:919004] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 09:00:34.488 SF Sample[47782:919004] [CDVTimer][keyboard] 0.061035ms
+2014-10-28 09:00:34.488 SF Sample[47782:919004] [CDVTimer][TotalPluginStartup] 0.240982ms
+2014-10-28 09:00:34.530 SF Sample[47782:919004] Resetting plugins due to page load.
+2014-10-28 09:00:34.830 SF Sample[47782:919004] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/93414025-FB78-49C7-BBD7-3BE386CEFF22/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 09:00:50.860 SF Sample[47939:919501] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/469704D8-5909-4286-8D97-9E6B3BD41CE7/Library/Cookies/Cookies.binarycookies
+2014-10-28 09:00:50.934 SF Sample[47939:919501] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 09:00:50.934 SF Sample[47939:919501] Multi-tasking -> Device: YES, App: YES
+2014-10-28 09:00:50.939 SF Sample[47939:919501] Unlimited access to network resources
+2014-10-28 09:00:50.942 SF Sample[47939:919501] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 09:00:51.140 SF Sample[47939:919501] [CDVTimer][keyboard] 0.066996ms
+2014-10-28 09:00:51.140 SF Sample[47939:919501] [CDVTimer][TotalPluginStartup] 0.303984ms
+2014-10-28 09:00:51.182 SF Sample[47939:919501] Resetting plugins due to page load.
+2014-10-28 09:00:51.644 SF Sample[47939:919501] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/3FDD510D-DB64-44E4-BA8A-F994DFE50D91/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 09:01:01.718 SF Sample[48095:919996] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/EE744E69-6CFE-4D28-A9AB-F0247722D898/Library/Cookies/Cookies.binarycookies
+2014-10-28 09:01:01.801 SF Sample[48095:919996] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 09:01:01.801 SF Sample[48095:919996] Multi-tasking -> Device: YES, App: YES
+2014-10-28 09:01:01.806 SF Sample[48095:919996] Unlimited access to network resources
+2014-10-28 09:01:01.809 SF Sample[48095:919996] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 09:01:02.005 SF Sample[48095:919996] [CDVTimer][keyboard] 0.059009ms
+2014-10-28 09:01:02.005 SF Sample[48095:919996] [CDVTimer][TotalPluginStartup] 0.241041ms
+2014-10-28 09:01:02.047 SF Sample[48095:919996] Resetting plugins due to page load.
+2014-10-28 09:01:02.340 SF Sample[48095:919996] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/0CE4255B-991A-449F-BC6E-F2D91F94D536/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 09:01:11.058 SF Sample[48251:920459] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/2B2CCB22-E62F-4673-B748-AD0B7BD565CE/Library/Cookies/Cookies.binarycookies
+2014-10-28 09:01:11.140 SF Sample[48251:920459] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 09:01:11.140 SF Sample[48251:920459] Multi-tasking -> Device: YES, App: YES
+2014-10-28 09:01:11.145 SF Sample[48251:920459] Unlimited access to network resources
+2014-10-28 09:01:11.147 SF Sample[48251:920459] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 09:01:11.346 SF Sample[48251:920459] [CDVTimer][keyboard] 0.064969ms
+2014-10-28 09:01:11.346 SF Sample[48251:920459] [CDVTimer][TotalPluginStartup] 0.248015ms
+2014-10-28 09:01:11.387 SF Sample[48251:920459] Resetting plugins due to page load.
+2014-10-28 09:01:11.665 SF Sample[48251:920459] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/DA6C15FE-F38D-4132-9386-2C2A392009DE/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 09:01:19.445 SF Sample[48407:920951] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/DB05FF32-08E2-42F1-B4B1-6CA176A12F8E/Library/Cookies/Cookies.binarycookies
+2014-10-28 09:01:19.523 SF Sample[48407:920951] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 09:01:19.523 SF Sample[48407:920951] Multi-tasking -> Device: YES, App: YES
+2014-10-28 09:01:19.528 SF Sample[48407:920951] Unlimited access to network resources
+2014-10-28 09:01:19.530 SF Sample[48407:920951] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 09:01:19.724 SF Sample[48407:920951] [CDVTimer][keyboard] 0.056028ms
+2014-10-28 09:01:19.724 SF Sample[48407:920951] [CDVTimer][TotalPluginStartup] 0.234962ms
+2014-10-28 09:01:19.766 SF Sample[48407:920951] Resetting plugins due to page load.
+2014-10-28 09:01:20.028 SF Sample[48407:920951] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/0999CC19-3820-475B-9899-FE63A69FEF44/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 09:01:54.457 SF Sample[48563:921634] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/A2EDAAC1-3E4A-410E-9F49-ED4A6254FAA1/Library/Cookies/Cookies.binarycookies
+2014-10-28 09:01:54.533 SF Sample[48563:921634] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 09:01:54.533 SF Sample[48563:921634] Multi-tasking -> Device: YES, App: YES
+2014-10-28 09:01:54.538 SF Sample[48563:921634] Unlimited access to network resources
+2014-10-28 09:01:54.541 SF Sample[48563:921634] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 09:01:54.750 SF Sample[48563:921634] [CDVTimer][keyboard] 0.061989ms
+2014-10-28 09:01:54.751 SF Sample[48563:921634] [CDVTimer][TotalPluginStartup] 0.264049ms
+2014-10-28 09:01:54.793 SF Sample[48563:921634] Resetting plugins due to page load.
+2014-10-28 09:01:55.058 SF Sample[48563:921634] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/9B029B87-4DA2-45C3-A0B3-BD7050D75AFE/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 09:03:54.008 SF Sample[48727:923119] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/28AABEE9-E971-4328-8E3F-78E9CF9077F9/Library/Cookies/Cookies.binarycookies
+2014-10-28 09:03:54.094 SF Sample[48727:923119] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 09:03:54.095 SF Sample[48727:923119] Multi-tasking -> Device: YES, App: YES
+2014-10-28 09:03:54.099 SF Sample[48727:923119] Unlimited access to network resources
+2014-10-28 09:03:54.102 SF Sample[48727:923119] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 09:03:54.297 SF Sample[48727:923119] [CDVTimer][keyboard] 0.066996ms
+2014-10-28 09:03:54.297 SF Sample[48727:923119] [CDVTimer][TotalPluginStartup] 0.259042ms
+2014-10-28 09:03:54.340 SF Sample[48727:923119] Resetting plugins due to page load.
+2014-10-28 09:03:54.590 SF Sample[48727:923119] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/C83EAB31-3953-4D53-A2B9-FCCEEEFF1E11/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 09:04:38.963 SF Sample[48885:924031] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/68EBA4A5-0099-4FB2-80A6-7E7390E38337/Library/Cookies/Cookies.binarycookies
+2014-10-28 09:04:39.045 SF Sample[48885:924031] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 09:04:39.045 SF Sample[48885:924031] Multi-tasking -> Device: YES, App: YES
+2014-10-28 09:04:39.051 SF Sample[48885:924031] Unlimited access to network resources
+2014-10-28 09:04:39.053 SF Sample[48885:924031] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 09:04:39.247 SF Sample[48885:924031] [CDVTimer][keyboard] 0.052989ms
+2014-10-28 09:04:39.247 SF Sample[48885:924031] [CDVTimer][TotalPluginStartup] 0.262976ms
+2014-10-28 09:04:39.289 SF Sample[48885:924031] Resetting plugins due to page load.
+2014-10-28 09:04:39.537 SF Sample[48885:924031] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/17A024C0-9C9C-4444-8275-DBA1290DF1F1/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 09:05:18.070 SF Sample[49043:924692] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/88CD9EE3-8EFF-47CD-ADFE-03C230239B75/Library/Cookies/Cookies.binarycookies
+2014-10-28 09:05:18.188 SF Sample[49043:924692] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 09:05:18.189 SF Sample[49043:924692] Multi-tasking -> Device: YES, App: YES
+2014-10-28 09:05:18.194 SF Sample[49043:924692] Unlimited access to network resources
+2014-10-28 09:05:18.197 SF Sample[49043:924692] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 09:05:18.400 SF Sample[49043:924692] [CDVTimer][keyboard] 0.056982ms
+2014-10-28 09:05:18.400 SF Sample[49043:924692] [CDVTimer][TotalPluginStartup] 0.236988ms
+2014-10-28 09:05:18.455 SF Sample[49043:924692] Resetting plugins due to page load.
+2014-10-28 09:05:18.785 SF Sample[49043:924692] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/84285F33-F316-4FDA-9151-9A5371B95676/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 09:05:27.201 SF Sample[49199:925215] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/C32C994F-D984-412D-B4DD-A73C160B7224/Library/Cookies/Cookies.binarycookies
+2014-10-28 09:05:27.282 SF Sample[49199:925215] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 09:05:27.282 SF Sample[49199:925215] Multi-tasking -> Device: YES, App: YES
+2014-10-28 09:05:27.287 SF Sample[49199:925215] Unlimited access to network resources
+2014-10-28 09:05:27.290 SF Sample[49199:925215] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 09:05:27.487 SF Sample[49199:925215] [CDVTimer][keyboard] 0.083983ms
+2014-10-28 09:05:27.487 SF Sample[49199:925215] [CDVTimer][TotalPluginStartup] 0.337958ms
+2014-10-28 09:05:27.531 SF Sample[49199:925215] Resetting plugins due to page load.
+2014-10-28 09:05:27.814 SF Sample[49199:925215] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/785E117F-4A13-4937-8FFD-1A78B2CACD59/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 09:05:37.875 SF Sample[49355:925695] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/5802EDD6-A950-4C1F-8353-92546FB946EB/Library/Cookies/Cookies.binarycookies
+2014-10-28 09:05:37.959 SF Sample[49355:925695] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 09:05:37.960 SF Sample[49355:925695] Multi-tasking -> Device: YES, App: YES
+2014-10-28 09:05:37.965 SF Sample[49355:925695] Unlimited access to network resources
+2014-10-28 09:05:37.968 SF Sample[49355:925695] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 09:05:38.160 SF Sample[49355:925695] [CDVTimer][keyboard] 0.077009ms
+2014-10-28 09:05:38.161 SF Sample[49355:925695] [CDVTimer][TotalPluginStartup] 0.280976ms
+2014-10-28 09:05:38.203 SF Sample[49355:925695] Resetting plugins due to page load.
+2014-10-28 09:05:38.455 SF Sample[49355:925695] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/17E0F0AB-942B-4A68-91DE-705FE3EB8F63/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 09:05:43.753 SF Sample[49513:926089] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/75FA104A-9AE2-4E30-BC21-49457D3DB215/Library/Cookies/Cookies.binarycookies
+2014-10-28 09:05:43.830 SF Sample[49513:926089] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 09:05:43.831 SF Sample[49513:926089] Multi-tasking -> Device: YES, App: YES
+2014-10-28 09:05:43.835 SF Sample[49513:926089] Unlimited access to network resources
+2014-10-28 09:05:43.838 SF Sample[49513:926089] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 09:05:44.031 SF Sample[49513:926089] [CDVTimer][keyboard] 0.057042ms
+2014-10-28 09:05:44.031 SF Sample[49513:926089] [CDVTimer][TotalPluginStartup] 0.244021ms
+2014-10-28 09:05:44.074 SF Sample[49513:926089] Resetting plugins due to page load.
+2014-10-28 09:05:44.399 SF Sample[49513:926089] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/C31B5FE2-24C7-4343-B6E6-BC2385BE6741/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 09:05:53.083 SF Sample[49669:926564] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/6C2ADCB8-9C62-49CF-BDC8-443358241C21/Library/Cookies/Cookies.binarycookies
+2014-10-28 09:05:53.174 SF Sample[49669:926564] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 09:05:53.174 SF Sample[49669:926564] Multi-tasking -> Device: YES, App: YES
+2014-10-28 09:05:53.180 SF Sample[49669:926564] Unlimited access to network resources
+2014-10-28 09:05:53.183 SF Sample[49669:926564] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 09:05:53.376 SF Sample[49669:926564] [CDVTimer][keyboard] 0.061989ms
+2014-10-28 09:05:53.377 SF Sample[49669:926564] [CDVTimer][TotalPluginStartup] 0.260055ms
+2014-10-28 09:05:53.419 SF Sample[49669:926564] Resetting plugins due to page load.
+2014-10-28 09:05:53.700 SF Sample[49669:926564] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/775BBF0E-9CFC-4AD0-9A6E-0934CDCBEC22/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 09:06:21.533 SF Sample[49825:927174] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/2CC0AAF6-C7AE-420D-9A78-0894699757DF/Library/Cookies/Cookies.binarycookies
+2014-10-28 09:06:21.615 SF Sample[49825:927174] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 09:06:21.616 SF Sample[49825:927174] Multi-tasking -> Device: YES, App: YES
+2014-10-28 09:06:21.620 SF Sample[49825:927174] Unlimited access to network resources
+2014-10-28 09:06:21.623 SF Sample[49825:927174] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 09:06:21.827 SF Sample[49825:927174] [CDVTimer][keyboard] 0.055015ms
+2014-10-28 09:06:21.827 SF Sample[49825:927174] [CDVTimer][TotalPluginStartup] 0.243962ms
+2014-10-28 09:06:21.874 SF Sample[49825:927174] Resetting plugins due to page load.
+2014-10-28 09:06:22.108 SF Sample[49825:927174] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/B0B52775-14BC-406A-862F-CF1586C007F5/SF%20Sample.app/www/index.html#/tab/tracking
+2014-10-28 09:06:30.197 SF Sample[49981:927690] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Data/Application/06673B24-7263-4AFC-8A11-FB8968B4C1FE/Library/Cookies/Cookies.binarycookies
+2014-10-28 09:06:30.278 SF Sample[49981:927690] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-28 09:06:30.279 SF Sample[49981:927690] Multi-tasking -> Device: YES, App: YES
+2014-10-28 09:06:30.283 SF Sample[49981:927690] Unlimited access to network resources
+2014-10-28 09:06:30.287 SF Sample[49981:927690] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-28 09:06:30.486 SF Sample[49981:927690] [CDVTimer][keyboard] 0.060022ms
+2014-10-28 09:06:30.486 SF Sample[49981:927690] [CDVTimer][TotalPluginStartup] 0.245988ms
+2014-10-28 09:06:30.528 SF Sample[49981:927690] Resetting plugins due to page load.
+2014-10-28 09:06:30.786 SF Sample[49981:927690] Finished load of: file:///Users/owenchen/Library/Developer/CoreSimulator/Devices/A6B0A193-DE14-4C79-B54F-4675D440FE57/data/Containers/Bundle/Application/45FBF25A-31B8-4E3B-9A9A-9F3E63B88356/SF%20Sample.app/www/index.html#/tab/tracking
