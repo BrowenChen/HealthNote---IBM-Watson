@@ -1,23 +1,84 @@
+<style>
+#confidence{
+	position: absolute;
+    top: 15px;
+    left: 15px;
+    max-width: 40px;
+    max-height: 40px;
+    border-radius: 10px;"
+
+
+}
+/*.badge1 {
+   position:relative;
+}
+.badge1[data-badge]:after {
+   content:attr(data-badge);
+   position:absolute;
+   /*top:-10px;*/
+   /*right:-10px;*/
+/*   font-size:1.2em;
+   background:green;
+   color:white;
+   width:40px;height:40px;
+   text-align:center;
+   line-height:18px;
+   border-radius:50%;
+   box-shadow:0 0 1px #333;
+}*/
+
+.checkout-btn {
+  width: 100%;
+  height: 34px;
+  padding: 0;
+  /*font-weight: bold;*/
+  color: white;
+  text-align: center;
+  vertical-align:middle;
+  text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.2);
+  border: 1px solid;
+  border-color: #1486f9 #0f7de9 #0d6acf;
+  background: #1993fb;
+  border-radius: 4px;
+  background-image: -webkit-linear-gradient(top, #4cb1fe, #229afc 40%, #138df6);
+  background-image: -moz-linear-gradient(top, #4cb1fe, #229afc 40%, #138df6);
+  background-image: -o-linear-gradient(top, #4cb1fe, #229afc 40%, #138df6);
+  background-image: linear-gradient(to bottom, #4cb1fe, #229afc 40%, #138df6);
+  -webkit-box-shadow: inset 0 1px rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.2);
+  box-shadow: inset 0 1px rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+#answerCard{
+
+	box-shadow: 2px 2px 1px #888888; 
+	border-radius: 5px;
+
+}
+
+
+
+
+</style>
+
+
 <ion-view title="IHeart"> 
-  <ion-content>
+  <ion-content style="background-color: #D5D5D5;">
 
 
 
 	<div class="bar bar-header bar-royal">
-		<button class="button icon ion-navicon"></button>
-		<h1 class="title">Watson Questions</h1>
-		<button class="button" style="border-radius: 20px; background-color: #5F8DC0;">Ask</button>
-		
+		<a class="button icon-left ion-chevron-left button-clear">Back</a>
+		<h1 class="title">Questions</h1>
+	
 	</div>
 	<br>
 	<br>
 	<br>
 
-
 	<!-- Ask Watson -->
 	<div class="list">
 
-	  <div class="item item-input-inset">
+	  <div class="item item-input-inset" style="background-color: transparent;">
 	    <label class="item-input-wrapper">
 	      <input type="text" placeholder="Ask Question">
 	    </label>
@@ -28,31 +89,106 @@
 
 	</div>	
 
+	<div class="list card" id="answerCard">
+
+	  <div class="item item-avatar">
+	    <img src="img/run.png">
+	    <h2>Preventative care</h2>
+	    <p>How long should I exercise a day after heart surgery?</p>
+	  </div>
+	  <a class="item item-icon-left assertive" href="#">
+	    
+	    India
+	  </a>
+
+	</div>
+
+	<div class="list card" id="answerCard">
+
+	  <div class="item item-avatar">
+	    <img src="img/vitc.png">
+	    <h2>Vitamin C</h2>
+	    <p>Is vitamin C okay to mix with ibuprofen?</p>
+	  </div>
+	  <a class="item item-icon-left assertive" href="#">
+	    
+	    India
+	  </a>
+
+	</div>
+
+
+
+	<div class="list card" id="answerCard">
+
+	  <div class="item item-avatar">
+	    <img src="img/run.png">
+	    <h2>Preventative care</h2>
+	    <p>How long should I exercise a day after heart surgery?</p>
+	  </div>
+	  <a class="item item-icon-left assertive" href="#">
+	    
+	    India
+	  </a>
+
+	</div>
+
+	<div class="list card" id="answerCard">
+
+	  <div class="item item-avatar">
+	    <img src="img/vitc.png">
+	    <h2>Vitamin C</h2>
+	    <p>Is vitamin C okay to mix with ibuprofen?</p>
+	  </div>
+	  <a class="item item-icon-left assertive" href="#">
+	    
+	    India
+	  </a>
+
+	</div>
+
+
 
 	<div class="list">
 
+
+
+
 	    <a class="item item-avatar" href="#">
-	      <!-- <img src="venkman.jpg"> -->
+	      
+	      <div id="confidence">
+			<div class='checkout-btn'> 50%</div> 
+	      </div>
+
 	      <h2>Venkman</h2>
 	      <p>I just recovered from heart surgery, should I eat chicken?</p>
 	    </a>
 
 	    <a class="item item-avatar" href="#">
-	      
-	      <h2>Venkman</h2>
-	      <p>Back off, man. I'm a scientist.</p>
+	      <div id="confidence">
+	            		<div class='checkout-btn' style="background: green;"> 20%</div> 
+	      </div>	      
+
+	      <h2>Chris</h2>
+	      <p>I have chest pains and headaches after surgery</p>
 	    </a>
 
 	    <a class="item item-avatar" href="#">
+	      <div id="confidence">
+	            		<div class='checkout-btn' style=" background: red;"> 10%</div> 
+	      </div>	    
 	      
-	      <h2>Venkman</h2>
-	      <p>Back off, man. I'm a scientist.</p>
+	      <h2>Joe</h2>
+	      <p>What can I purchase over the counter after brain surgery to alleviate headaches</p>
 	    </a>
 
 	    <a class="item item-avatar" href="#">
+	      <div id="confidence">
+	            		<div class='checkout-btn' style="background: orange;"> 40%</div> 
+	      </div>	    
 	     
-	      <h2>Venkman</h2>
-	      <p>Back off, man. I'm a scientist.</p>
+	      <h2>Daryl</h2>
+	      <p>How soon after a surgery can I do exercise?</p>
 	    </a>	    
 	    
 	</div>	
