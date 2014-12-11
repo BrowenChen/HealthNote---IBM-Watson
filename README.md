@@ -2,7 +2,7 @@ HealthNote---IBM-Watson
 =======================
 
 Utilizing IBM Watson DeepQA API for IBM competition.
-- Executive summary of business model and prototype linked as a pdf here
+- 17 page Executive summary of business model and prototype linked as a pdf here
 
 Healthnote is what we have created and will be presenting to IBM. Here is the description of the technology portion:
 
