@@ -6,7 +6,9 @@ Utilizing IBM Watson DeepQA API for IBM competition.
 
 Healthnote is what we have created and will be presenting to IBM. Here is the description of the technology portion:
 
+=======================
 What we want to do 
+
 We want insight into aggregating all of the worlds emerging research findings, parse and analyze them intelligently to calculate the best answers to any medical questions backed by evidence, and spread this access of knowledge to everyone. 
 
 Why is this a problem? 
